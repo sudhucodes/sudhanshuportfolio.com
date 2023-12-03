@@ -337,7 +337,7 @@ nav .fa-solid{
 }
 @media only screen and (max-width: 600px){
     #header{
-        background-image: url(photo/backgroundforphone.jpg);
+        background-image: url(photo/backgroundformobile.jpg);
     }
     .header-text{
         margin-top: 100%;
