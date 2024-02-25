@@ -331,6 +331,7 @@ form .btn2{
 .copyright i{
     color: #ff004f;
 }
+
 /*------------css for small screens----------*/
 nav .fa-solid {
     display: none;
@@ -341,11 +342,11 @@ nav .fa-solid {
         background-image: url(photo/bgforphone.jpg);
         background-size: cover;
         background-position: center;
-        height: 85vh; /* Adjust the height as needed */
+        height: 83vh; /* Adjust the height as needed */
     }
 
     .header-text {
-        margin-top: 96%; /* Adjust as needed */
+        margin-top: 105%; /* Adjust as needed */
         font-size: 20px;
     }
 
