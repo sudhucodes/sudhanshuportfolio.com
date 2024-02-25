@@ -342,11 +342,11 @@ nav .fa-solid {
         background-image: url(photo/bgforphone.jpg);
         background-size: cover;
         background-position: center;
-        height: 70vh; /* Adjust the height as needed */
+        height: 80vh; /* Adjust the height as needed */
     }
 
     .header-text {
-        margin-top: 105%; /* Adjust as needed */
+        margin-top: 135%; /* Adjust as needed */
         font-size: 20px;
     }
 
