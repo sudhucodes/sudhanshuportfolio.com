@@ -339,7 +339,7 @@ nav .fa-solid {
 
 @media only screen and (max-width: 600px) {
     #header {
-        background-image: url(photo/backgroundforphone.jpg);
+        background-image: url(photo/bgforphone.jpg);
         background-size: cover;
         background-position: center;
         height: 83vh; /* Adjust the height as needed */
@@ -427,7 +427,7 @@ nav .fa-solid {
 
 #preloader {
     background: #1b1d21 url(photo/loader.gif) no-repeat center center;
-    background-size: 30%;
+    background-size: 55%;
     height: 100vh;
     width: 100%;
     position: fixed;
